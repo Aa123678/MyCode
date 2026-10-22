@@ -7,6 +7,6 @@ int main()
     scanf("%d %d",&hour2,&minute2);
     int t=hour2*60+minute2-(hour1*60+minute1);
     int t1=t/60,t2=t%60;
-    printf("%dĞ¡Ê±%d·ÖÖÓ\n",t1,t2);
+    printf("%då°æ—¶%dåˆ†é’Ÿ\n",t1,t2);
     return 0;
 }
